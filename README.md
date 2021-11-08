@@ -1,4 +1,4 @@
-# ddosbyhmst
+# 🐣
 DDos Attack By Hamster 👻
 
 Support: Linux And Termux <3
